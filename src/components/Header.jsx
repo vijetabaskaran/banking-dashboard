@@ -34,7 +34,7 @@ export default function Header({ search, onSearch, onMenu }) {
       </div>
 
       <div className="profile">
-        <div className="avatar">AK</div>
+        <div className="avatar">HI</div>
         <div className="profile-text">
           <strong>Hello user</strong>
           <small>Welcome back!</small>
